@@ -1,0 +1,27 @@
+body {
+    background-image: url('images/modern-gold-background-free-vector.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    text-align: center;
+}
+ul {
+    text-align: center;
+    color: orangered;
+    
+}
+li {
+    color: orangered;
+    text-align: center;
+    list-style-position: inside
+    
+}
+link {
+    color: orange;
+}
+h2{
+    color: orangered;
+}
+p {
+    color: orange;
+}
